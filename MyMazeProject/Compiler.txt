@@ -1,0 +1,3 @@
+g++ -o pp main.cpp Maze.cpp Robot.cpp Node.cpp
+
+./pp
